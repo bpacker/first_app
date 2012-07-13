@@ -1,8 +1,8 @@
-# Ruby on Rails Tutorial: first application
+# RoR example
 
-This is the first application for
-[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
-by [Michael Hartl](http://michaelhartl.com/).
+This is my first application.
+It's from [*Ruby on Rails Tutorial*](http://railstutorial.org/)
+by [Michael Hartl].
 
 # RoR example
 
